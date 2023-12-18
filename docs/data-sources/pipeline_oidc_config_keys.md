@@ -28,4 +28,4 @@ The following arguments are supported:
 
 ## Attributes Reference
 
-* `oidc_config_keys` - The Json representing the OIDC config keys.
+* `keys` - The Json representing the OIDC config keys.
